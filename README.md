@@ -15,4 +15,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-GitHub token: 2023-2-26 申请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
